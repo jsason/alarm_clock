@@ -1,6 +1,6 @@
 # Python Alarm Clock
 
-A simple Python program for an alarm clock that plays a random song from Youtube at a specific time.
+A simple Python program for an alarm clock that plays a random One Direction song from Youtube at a specific time.
 
 ## Usage
 
